@@ -20,6 +20,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/xesab/xesab/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xesab/xesab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xesab/xesab/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xesab/xesab/output/github-snake.svg" />
+</picture>
