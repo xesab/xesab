@@ -68,6 +68,7 @@
 
 ###
 
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xesab/xesab/output/pacman-contribution-graph-dark.svg">
